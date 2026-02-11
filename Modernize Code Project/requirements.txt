@@ -1,0 +1,20 @@
+# NEV-BLAST Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+
+# Bioinformatics
+biopython>=1.79
+
+# GUI
+# Note: tkinter usually comes with Python installation
+# If tkinter is missing, you may need to install python3-tk via your system package manager
+
+# Visualization
+plotly>=5.0.0
+
+# Image processing
+Pillow>=8.3.0
